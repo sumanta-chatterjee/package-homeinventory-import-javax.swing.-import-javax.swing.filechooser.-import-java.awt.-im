@@ -1,1 +1,1 @@
-# package-homeinventory-import-javax.swing.-import-javax.swing.filechooser.-import-java.awt.-im
+Inventory Manager Project
